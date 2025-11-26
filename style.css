@@ -32,6 +32,16 @@
         margin-right: auto;
         border-radius: 100%;
     }
+    #AD{
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        font-size: large;
+    }
+   #yvid {
+    display: block;
+    margin: 0 auto;
+    }
+
     html{
         scroll-behavior: smooth;
     }
